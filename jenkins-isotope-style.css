@@ -19,11 +19,11 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
     width: auto; }
   #top-panel td > a {
-    background: url("http://www.leandog.com/img/LeanDog-Logo-No-Tagline.png") 0 0 no-repeat;
+    background: url("http://leandog.github.io/jenkins-isotope-style/logo.png") 0 0 no-repeat;
     background-size: contain;
     display: block;
-    width: auto;
-    height: auto;
+    width: 300px;
+    height: 72px;
     margin: 5px 0 5px 5px; }
     #top-panel td > a img {
       display: none; }

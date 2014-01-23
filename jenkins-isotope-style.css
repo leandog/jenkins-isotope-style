@@ -21,9 +21,9 @@ h1, h2, h3, h4, h5, h6 {
   #top-panel td > a {
     background: url("http://www.leandog.com/img/LeanDog-Logo-No-Tagline.png") 0 0 no-repeat;
     display: block;
-    width: 130px;
-    height: 40px;
-    margin: 10px 0 10px 10px; }
+    width: auto;
+    height: auto;
+    margin: 5px 0 5px 5px; }
     #top-panel td > a img {
       display: none; }
 
